@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Welcome to Spring-Vue App"/>
     <button @click="hello">hello</button>
     {{response}}
   </div>
